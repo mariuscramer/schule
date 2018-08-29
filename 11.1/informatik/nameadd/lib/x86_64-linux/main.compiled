@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1530527837"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fu/home/mcramer/Documents/schule/11.1/informatik/ -FU/home/mcramer/Documents/schule/11.1/informatik/lib/x86_64-linux/ main.lpr"/>
+</CONFIG>
