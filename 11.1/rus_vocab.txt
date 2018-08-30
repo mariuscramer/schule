@@ -32,7 +32,6 @@ vokabularliste russisch:
 человек             = man, person
 город               = city
 или                 = or
-она                 = she
 здесь               = here
 до свидания         = goodbye
 надо                = need
@@ -43,3 +42,14 @@ vokabularliste russisch:
 До                  = to, while
 До скорого, мама    = See you, mom
 Не надо             = Don't!
+Мы                  = we
+сестра              = sister
+моя                 = my (female)
+брат                = brother
+Мой                 = my (male)
+У	меня	есть        = i have
+У нас есть          = we have
+молоко              = milk
+ребёнок             = child
+яблоки              = apples
+есть                = have
