@@ -21,7 +21,7 @@ vokabularliste russisch:
 всё хорошо?         = Is everything OK?
 ем                  = eat (1st person)
 хлеб                = bread
-женщины, женщинам   = wome
+женщины, женщинам   = women
 кафе                = café, cafe
 Они                 = they, they are
 в                   = in, at
