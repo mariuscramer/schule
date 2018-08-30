@@ -43,12 +43,3 @@ vokabularliste russisch:
 До                  = to, while
 До скорого, мама    = See you, mom
 Не надо             = Don't!
-
-надо                = need
-не надо             = no need
-видим               = see
-тебя                = you
-скорого             = soon
-До                  = to, while
-До скорого, мама    = See you, mom
-Не надо             = Don't!
